@@ -1,58 +1,65 @@
-# Ruby Assessments
+# ASSESSMENT 4: INTRO TO RUBY
+## Interview Practice Questions
 
-Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
+Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own there is always something more to learn.   
 
+1. In what ways are JavaScript and Ruby similar? In what ways are they different?
 
-#### 1. What is a method in Ruby? How is it different or similar to functions in JavaScript?
+  Your answer:
 
-
-#### 2. What does it mean that a class inherits from another class? Try to explain Ruby inheritance. 
-
-
-[Your Answer]
+  Researched answer:
 
 
-[Googled Answer]
+
+2. What is a hash?
+
+  Your answer:
+
+  Researched answer:
 
 
-#### 3. What is rspec and what is the general process for writing tests in RSpec?
 
-//Your Answer
+3. What is the testing framework used in Ruby? Describe the process of setting up the testing environment.
 
-//Googled Answer
+  Your answer:
 
-
-#### 4. Name three possible non-inheritance relationships between ruby objects? 
-
-//Your Answer
-
-//Googled Answer
+  Researched answer:
 
 
-#### 5. What do we call the #{} convention used below? What is it accomplishing?
 
-```ruby
-x = 1022
-puts "I am printing a random number #{x}"
-```
+4. Name three possible relationships between objects?
 
-#### 6. How do you feel about testing right now? What potential pros/cons/barriers/advantages do you see to implementing BDD in your own code?
+  Your answer:
 
-//Your Answer
-
-//Googled Answer
+  Researched answer:
 
 
-#### 7. What is an instance variable in Ruby? How is it different from a normal, local variable?
 
-//Your Answer
+5. What is an instance variable? How is it different from other variables in Ruby?
 
-//Googled Answer
+  Your answer:
 
-#### 8. Ruby has a great community and tons of free resources to help you learn. Here is the long list of great resources: https://www.ruby-lang.org/en/documentation/. Below are a few popular ones:
-- Interactive Ruby tutorial (http://tryruby.org/levels/1/challenges/0)
-- Why's (poigniant) Guide to Ruby: comics, anecdotes, and microscopic canaries (http://poignant.guide/book/chapter-1.html)
-- Ruby in 20 min (https://www.ruby-lang.org/en/documentation/quickstart/)
+  Researched answer:
 
 
-Choose one of these resources and go through the material (not for hours, only looking for around 10min of your time) then come back here and list a few new things you learned about Ruby.
+
+6. Ruby has a great community and tons of free resources to help you learn. [Here](https://www.ruby-lang.org/en/documentation/)is a list of great resources. Below are a few popular ones:
+- [Interactive Ruby Tutorial](http://tryruby.org/levels/1/challenges/0)
+- [Why's (poigniant) Guide to Ruby](http://poignant.guide/book/chapter-1.html): comics, anecdotes, and microscopic canaries
+- [Ruby in 20 Min](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Ruby Style Guide](https://rubystyle.guide/)
+
+Choose one of these resources and look through the material for 10-15 min. List three new things you learned about Ruby:
+
+1)
+
+2)
+
+3)
+
+
+7. Stretch: What are blocks, procs, and lambdas?
+
+  Your answer:
+
+  Researched answer:
