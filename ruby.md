@@ -58,7 +58,7 @@ Choose one of these resources and look through the material for 10-15 min. List 
 3)
 
 
-7. Stretch: What are blocks, procs, and lambdas?
+7. STRETCH: What are blocks, procs, and lambdas?
 
   Your answer:
 
