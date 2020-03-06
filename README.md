@@ -1,4 +1,4 @@
-# Assessments for Ruby
+# Assessments for Week 5
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
